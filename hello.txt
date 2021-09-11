@@ -13,4 +13,4 @@ hello shahao! hello git! !
 hello shahao! hello git! !
 hello shahao! hello git! !
 hello shahao! hello git! ! master-test
-hello shahao! hello git! !
+hello shahao! hello git! ! hot-fix test
